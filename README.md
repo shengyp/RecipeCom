@@ -13,4 +13,4 @@
 
 1. **Ingredient Extraction from Text in the Recipe Domain.** `CoRR`
 
-    *Arkin Dharawat, Chris Doan.* [[PDF](https://arxiv.org/abs/2204.08137)], abs/2204.08137, 2022.
+    *Arkin Dharawat, Chris Doan.* [[PDF](https://arxiv.org/pdf/2204.08137)], abs/2204.08137, 2022.
