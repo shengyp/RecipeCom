@@ -12,7 +12,7 @@
 
     *Donglin Zhang, Boyuan Ma, Xiaojun Wu, Josef Kittler.* [[PDF](https://dl.acm.org/doi/epdf/10.1145/3746027.3754588)], 9159-9167, 2025.
    
-3. **PortionNet: Distilling 3D Geometric Knowledge for Food Nutrition Estimation.** `arXiv`
+2. **PortionNet: Distilling 3D Geometric Knowledge for Food Nutrition Estimation.** `arXiv`
 
     *Darrin Bright, Rakshith Raj, Kanchan Keisham.* [[PDF](https://arxiv.org/pdf/2512.22304)], abs/2512.22304, 2025.
 
