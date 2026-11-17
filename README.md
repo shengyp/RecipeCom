@@ -4,7 +4,7 @@
 
 1. **NutriVision: Ingredient-Conditioned Fusion and Prediction for Single-Image Food Nutrition Estimation.** `arXiv`
 
-    *Aman Kumar, Avinash Anand, Chaitanya Lakhchaura, Ashutosh Kumar, Akshita Abrol, Timothy Liu, Zhengkui Wang, Rajiv Ratn Shah.* [[PDF](https://arxiv.org/abs/2609.33076)], abs/2609.33076, 2026.
+    *Aman Kumar, Avinash Anand, Chaitanya Lakhchaura, Ashutosh Kumar, Akshita Abrol, Timothy Liu, Zhengkui Wang, Rajiv Ratn Shah.* [[PDF](https://arxiv.org/pdf/2609.33076)], abs/2609.33076, 2026.
 
 ## 2025
 ## 2024
