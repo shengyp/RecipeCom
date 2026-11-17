@@ -2,13 +2,15 @@
 
 ## 2026
 
-1. **A Unified Multi-Task Architecture for Suicide Risk Detection via Attention-Based Decision and Cause Sentence Extraction.** `IEEE Access`
+1. **NutriVision: Ingredient-Conditioned Fusion and Prediction for Single-Image Food Nutrition Estimation.** `arXiv`
 
-    *Kyungbae Park, Won Sakong.* [[PDF](https://doi.org/10.1109/ACCESS.2026.3669351)], 14: 39154-39170, 2026.
-
-2. **Data-driven suicide risk prediction in patients suffering from chronic diseases using machine learning.** `Health Informatics J.`
-
-    *Nujud Aloshban.* [[PDF](https://doi.org/10.1177/14604582251413167)], 32(1), 2026.
-
+    *Aman Kumar, Avinash Anand, Chaitanya Lakhchaura, Ashutosh Kumar, Akshita Abrol, Timothy Liu, Zhengkui Wang, Rajiv Ratn Shah.* [[PDF](https://arxiv.org/abs/2609.33076)], abs/2609.33076, 2026.
 
 ## 2025
+## 2024
+## 2023
+## 2022
+
+1. **Ingredient Extraction from Text in the Recipe Domain.** `CoRR`
+
+    *Arkin Dharawat, Chris Doan.* [[PDF](https://arxiv.org/abs/2204.08137)], abs/2204.08137, 2022.
