@@ -39,6 +39,11 @@
     *Chi-En Amy Tai, et al.* [[PDF](https://arxiv.org/pdf/2401.08598)], abs/2401.08598, 2024.
    
 ## 2023
+
+1. **Assistive Recipe Editing through Critiquing.** `EACL`
+
+    *Diego Antognini, Shuyang Li, Boi Faltings, Julian J. McAuley.* [[PDF](https://aclanthology.org/2023.eacl-main.28.pdf)], 375-384, 2023.
+   
 ## 2022
 
 1. **Ingredient Extraction from Text in the Recipe Domain.** `CoRR`
