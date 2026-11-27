@@ -13,16 +13,16 @@
 3. **CGU-ILALab at FoodBench-QA 2026: Comparing Traditional and LLM-based Approaches for
 Recipe Nutrient Estimation.** `arXiv`
 
-*Wei-Chun Chen, Yu-Xuan Chen, I-Fang Chung, Ying-Jia Lin.* [PDF](https://arxiv.org/pdf/2604.25774), abs/2604.25774, 2026.
+*Wei-Chun Chen, Yu-Xuan Chen, I-Fang Chung, Ying-Jia Lin.* [[PDF](https://arxiv.org/pdf/2604.25774)], abs/2604.25774, 2026.
 
 4. **Investigating the Ability of Large Language Models to Analyze Recipes for Diabetes.** `arXiv`
 
-*Revathy Venkataramanan, Aditya Luthra, Venkatesan Nadimuthu, Amit Sheth.* [PDF](https://arxiv.org/pdf/2609.03967),abs/2609.03967, 2026
+*Revathy Venkataramanan, Aditya Luthra, Venkatesan Nadimuthu, Amit Sheth.* [[PDF](https://arxiv.org/pdf/2609.03967)],abs/2609.03967, 2026.
 
 5. **Statistically Supported LLM Ingredient and Recipe Data Collection in Computational
 Nutrition.** `arXiv`
 
-*James Izzard, Hassan Eshkiki, Fabio Caraffini.* [PDF](https://arxiv.org/pdf/2607.23273), abs/2607.23273, 2026
+*James Izzard, Hassan Eshkiki, Fabio Caraffini.* [[PDF](https://arxiv.org/pdf/2607.23273)], abs/2607.23273, 2026.
 
 ## 2025
 
@@ -53,7 +53,7 @@ Nutrition.** `arXiv`
 7. **NutriGen: Personalized Meal Plan Generator Leveraging Large Language Models to Enhance
 Dietary and Nutritional Adherence.** `arXiv`
 
-*Saman Khamesian, Asiful Arefeen, Stephanie M. Carpenter, Hassan Ghasemzadeh.* [[PDF](https://arxiv.org/pdf/2502.20601)],abs/2502.20601, 2025
+*Saman Khamesian, Asiful Arefeen, Stephanie M. Carpenter, Hassan Ghasemzadeh.* [[PDF](https://arxiv.org/pdf/2502.20601)],abs/2502.20601, 2025.
 
 8. **KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language
 Models.** `arXiv`
@@ -63,7 +63,7 @@ Models.** `arXiv`
 9. **On Recipe Memorization and Creativity in Large Language Models: Is Your Model a Creative
 Cook, a Bad Cook, or Merely a Plagiator?** `arXiv`
 
-*Jan Kvapil, Martin Fajcik.* [[PDF](https://arxiv.org/pdf/2506.23527)], abs/2506.23527, 2025
+*Jan Kvapil, Martin Fajcik.* [[PDF](https://arxiv.org/pdf/2506.23527)], abs/2506.23527, 2025.
 
 
 ## 2024
@@ -77,7 +77,7 @@ Meal Descriptions.** `arXiv`
 Examination.** `arXiv`
 
 *Pengfei Zhou, Weiqing Min, Chaoran Fu, Ying Jin, Mingyu Huang, Xiangyang Li, Shuhuan
-Mei, Shuqiang Jiang.* [[PDF](https://arxiv.org/pdf/2406.10261)], abs/2406.10261, 2024
+Mei, Shuqiang Jiang.* [[PDF](https://arxiv.org/pdf/2406.10261)], abs/2406.10261, 2024.
 
 ## 2023
 
@@ -87,6 +87,6 @@ Mei, Shuqiang Jiang.* [[PDF](https://arxiv.org/pdf/2406.10261)], abs/2406.10261,
    
 ## 2022
 
-1. **RecipeMind: Guiding Ingredient Choices from Food Pairing to Recipe Completion using Cascaded Set Transformer** CIKM 2022
+1. **RecipeMind: Guiding Ingredient Choices from Food Pairing to Recipe Completion using Cascaded Set Transformer** `CIKM 2022`
 
     *Mogan Gim, Donghee Choi, Kana Maruyama, Jihun Choi, Hajung Kim, Donghyeon Park, Jaewoo Kang.* [[PDF](https://arxiv.org/pdf/2210.10628)], abs/2210.10628, 2022.
