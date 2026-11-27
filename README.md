@@ -17,7 +17,7 @@ Recipe Nutrient Estimation.** `arXiv`
 
 4. **Investigating the Ability of Large Language Models to Analyze Recipes for Diabetes.** `arXiv`
 
-*Revathy Venkataramanan, Aditya Luthra, Venkatesan Nadimuthu, Amit Sheth.* [[PDF](https://arxiv.org/pdf/2609.03967)],abs/2609.03967, 2026.
+*Revathy Venkataramanan, Aditya Luthra, Venkatesan Nadimuthu, Amit Sheth.* [[PDF](https://arxiv.org/pdf/2609.03967)][[code](https://github.com/revathyramanan/LLMs-Diabetes-Recipes)],abs/2609.03967, 2026.
 
 5. **Statistically Supported LLM Ingredient and Recipe Data Collection in Computational
 Nutrition.** `arXiv`
@@ -30,7 +30,7 @@ Nutrition.** `arXiv`
 
 7. **GLEN-Bench: A Graph-Language based Benchmark for Nutritional Health.** `arXiv`
 
-    *Jiatan Huang, Zheyuan Zhang, Tianyi Ma, Mingchen Li, Yaning Zheng, Yanfang Ye, Chuxu Zhang.* [[PDF](https://arxiv.org/pdf/2601.18106)], abs/2601.18106, 2026.
+    *Jiatan Huang, Zheyuan Zhang, Tianyi Ma, Mingchen Li, Yaning Zheng, Yanfang Ye, Chuxu Zhang.* [[PDF](https://arxiv.org/pdf/2601.18106)][[code](https://github.com/revathyramanan/LLMs-Diabetes-Recipes)], abs/2601.18106, 2026.
 
 8. **Evaluation of LLMs in retrieving food and nutritional context for RAG systems.** `arXiv`
 
