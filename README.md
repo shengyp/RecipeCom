@@ -39,6 +39,26 @@
 6. **S2SRec2: Set-to-Set Recommendation for Basket Completion with Recipe.** SIGIR eCom 2025
 
    *Yanan Cao, Omid Memarrast, Shiqin Cai, Sinduja Subramaniam, Evren Körpeoğlu, Kannan Achan.* [[PDF](https://arxiv.org/pdf/2507.09101)], abs/2507.09101, 2025.
+
+7. **DietQA: A Comprehensive Framework for Personalized Multi-Diet Recipe Retrieval Using Knowledge Graphs, Retrieval-Augmented Generation, and Large Language Models.** `arXiv`
+
+    *Ioannis Tsampos, Emmanouil I. Marakakis.* [[PDF](https://doi.org/10.3390/computers14100412)], 10.3390/computers14100412, 2025.
+
+8. **Exploring Large Language Models for Personalized Recipe Generation and Weight-Loss Management.** `arXiv`
+
+    *Grace Ataguba, Rita Orji.* [[PDF](https://dl.acm.org/doi/10.1145/3712709)], 10.1145/3712709, 2025.
+
+9. **Controlled Recipe Generation: Adapting Food Recipes to Meet Dietary Restriction.** `arXiv`
+
+    *Kemalcan Bora.* [[PDF](https://ceur-ws.org/Vol-4100/paper18.pdf)], Vol-4100/paper18, 2025.
+
+10. **Fine-tuning Language Models for Recipe Generation: A Comparative Analysis and Benchmark Study.** `arXiv`
+
+    *Anneketh Vij, Changhao Liu, Rahul Anil Nair, Theodore Eugene Ho, Edward Shi, Ayan Kumar Bhowmick.* [[PDF](https://arxiv.org/pdf/2502.02028)], abs/2502.02028, 2025.
+
+11. **The Digital Sous Chef - A Comparative Study on Fine-Tuning Language Models for Recipe Generation.** `arXiv`
+
+    *Shubham Pundhir, Ganesh Bagler.* [[PDF](https://arxiv.org/pdf/2508.14718)], abs/2508.14718, 2025.
    
 ## 2024
 
