@@ -28,13 +28,17 @@ Nutrition.** `arXiv`
 
     *Qian Jiang, Zhecheng Shi, Jingpu Yang, Zirui Song, Miao Fang.* [[PDF](https://arxiv.org/pdf/2607.08423)], abs/2607.08423, 2026.
 
-7. **GLEN-Bench: A Graph-Language based Benchmark for Nutritional Health.** `arXiv`
+7. **GLEN-Bench: A Graph-Language based Benchmark for Nutritional Health.** `CoRR`
 
     *Jiatan Huang, Zheyuan Zhang, Tianyi Ma, Mingchen Li, Yaning Zheng, Yanfang Ye, Chuxu Zhang.* [[PDF](https://arxiv.org/pdf/2601.18106)][[code](https://github.com/revathyramanan/LLMs-Diabetes-Recipes)], abs/2601.18106, 2026.
 
 8. **Evaluation of LLMs in retrieving food and nutritional context for RAG systems.** `arXiv`
 
     *Maks Požarnik Vavken, Matevž Ogrinc, Tome Eftimov, Barbara Koroušić Seljak.* [[PDF](https://arxiv.org/pdf/2603.09704)], abs/2603.09704, 2026.
+
+9. **Open-KNEAD: Knowledge-grounded Nutrition Estimation via Agentic Decomposition.** `arXiv`
+
+    *Bruce Coburn, Jingbo Yue, Jinge Ma, Siddeshwar Raghavan, Gautham Vinod, Fengqing Zhu.* [[PDF](https://arxiv.org/pdf/2607.12911)], abs/2607.12911 2026.
    
 ## 2025
 
@@ -84,6 +88,11 @@ Cook, a Bad Cook, or Merely a Plagiator?** `arXiv`
 11. **Comprehensive Evaluation of Large Multimodal Models for Nutrition Analysis: A New Benchmark Enriched with Contextual Metadata.** `arXiv`
 
     *Bruce Coburn, Jiangpeng He, Megan E. Rollo, Satvinder S. Dhaliwal, Deborah A. Kerr, Fengqing Zhu.* [[PDF](https://arxiv.org/pdf/2507.07048)], abs/2507.07048, 2025.
+
+12. **Semantic Nutrition Estimation: Predicting Food Healthfulness from Text Descriptions.** `CoRR`
+
+    *	Dayne R. Freudenberg, Daniel G. Haughian, Mitchell A. Klusty, Caroline N. Leach, W. Scott Black, Leslie N. Woltenberg, Rowan Hallock, Elizabeth Solie, Emily B. Collier, Samuel E. Armstrong, V. K. Cody Bumgardner.* [[PDF](https://arxiv.org/pdf/2512.11836)], abs/2512.11836 2025.
+
 
 ## 2024
 
