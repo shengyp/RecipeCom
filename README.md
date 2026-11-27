@@ -42,11 +42,11 @@
 
 7. **DietQA: A Comprehensive Framework for Personalized Multi-Diet Recipe Retrieval Using Knowledge Graphs, Retrieval-Augmented Generation, and Large Language Models.** `arXiv`
 
-    *Ioannis Tsampos, Emmanouil I. Marakakis.* [[PDF](https://doi.org/10.3390/computers14100412)], 10.3390/computers14100412, 2025.
+    *Ioannis Tsampos, Emmanouil I. Marakakis.* [[PDF](https://www.mdpi.com/2073-431X/14/10/412)], 10.3390/computers14100412, 2025.
 
 8. **Exploring Large Language Models for Personalized Recipe Generation and Weight-Loss Management.** `arXiv`
 
-    *Grace Ataguba, Rita Orji.* [[PDF](https://dl.acm.org/doi/10.1145/3712709)], 10.1145/3712709, 2025.
+    *Grace Ataguba, Rita Orji.* [[PDF](https://dl.acm.org/doi/epdf/10.1145/3712709)], 10.1145/3712709, 2025.
 
 9. **Controlled Recipe Generation: Adapting Food Recipes to Meet Dietary Restriction.** `arXiv`
 
