@@ -8,11 +8,11 @@
 
 2. **Diabetasty: Personalized Recipe Generation System for Type 2 Diabetes Management Using Large Language Models and Reinforcement Learning.** `arXiv`
 
-    *Nitya Rajan, Sreelasya Changalasetty, N. Prabakaran, N. Karthik, B. Aruna Devi.* [[PDF](https://ieeexplore.ieee.org/document/11769533)], 14: 168458–168477, 2026.
+    *Nitya Rajan, Sreelasya Changalasetty, N. Prabakaran, N. Karthik, B. Aruna Devi.* [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11769533)], 14: 168458–168477, 2026.
 
 3. **ReciFine: Finely Annotated Recipe Dataset for Controllable Recipe Generation.** `arXiv`
 
-    *Nuhu Ibrahim, Rishi Ravikumar, Robert Stevens, Riza Batista-Navarro.* [[PDF](https://aclanthology.org/2026.findings-eacl.210.pdf)], 2026.findings-eacl.210, 2026.
+    *Nuhu Ibrahim, Rishi Ravikumar, Robert Stevens, Riza Batista-Navarro.* [[PDF](https://aclanthology.org/2026.findings-eacl.210.pdf)], EACL (Findings) 2026: 4058-4074
 
 4. **The Relationship Between Perceived Diversity and Entropy of AI-Generated Content: A Case Study in Recipe Generation.** `arXiv`
 
