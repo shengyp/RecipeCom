@@ -8,7 +8,7 @@
 
 2. **ReciFine: Finely Annotated Recipe Dataset for Controllable Recipe Generation.** `EACL (Findings)`
 
-    *Nuhu Ibrahim, Rishi Ravikumar, Robert Stevens, Riza Batista-Navarro.* [[PDF](https://aclanthology.org/2026.findings-eacl.210.pdf)], 2026.findings-eacl.210, 2026.
+    *Nuhu Ibrahim, Rishi Ravikumar, Robert Stevens, Riza Batista-Navarro.* [[PDF](https://aclanthology.org/2026.findings-eacl.210.pdf)][[data](https://huggingface.co/datasets/nuhuibrahim/recifine)], 2026.findings-eacl.210, 2026.
 
 3. **CGU-ILALab at FoodBench-QA 2026: Comparing Traditional and LLM-based Approaches for
 Recipe Nutrient Estimation.** `arXiv`
