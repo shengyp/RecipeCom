@@ -2,7 +2,8 @@
 
 ## 2026
 
-1. **NutriVision: Ingredient-Conditioned Fusion and Prediction for Single-Image Food Nutrition Estimation.** `arXiv`
+1. **NutriVision: Ingredient-Conditioned Fusion and Prediction for Single-Image Food Nutrition
+   Estimation.** `arXiv`
 
     *Aman Kumar, Avinash Anand, Chaitanya Lakhchaura, Ashutosh Kumar, Akshita Abrol, Timothy Liu, Zhengkui Wang, Rajiv Ratn Shah.* [[PDF](https://arxiv.org/pdf/2609.33076)], abs/2609.33076, 2026.
 
@@ -13,7 +14,16 @@
 3. **ReciFine: Finely Annotated Recipe Dataset for Controllable Recipe Generation.** `EACL (Findings)`
 
     *Nuhu Ibrahim, Rishi Ravikumar, Robert Stevens, Riza Batista-Navarro.* [[PDF](https://aclanthology.org/2026.findings-eacl.210.pdf)], 2026.findings-eacl.210, 2026.
-   
+
+4. **CGU-ILALab at FoodBench-QA 2026: Comparing Traditional and LLM-based Approaches for
+Recipe Nutrient Estimation.** `arXiv`
+
+*Wei-Chun Chen, Yu-Xuan Chen, I-Fang Chung, Ying-Jia Lin.* [PDF](https://arxiv.org/pdf/2604.25774), abs/2604.25774, 2026.
+
+5. **Investigating the Ability of Large Language Models to Analyze Recipes for Diabetes.** `arXiv`
+
+*Revathy Venkataramanan, Aditya Luthra, Venkatesan Nadimuthu, Amit Sheth.* [PDF](https://arxiv.org/pdf/2609.03967),abs/2609.03967, 2026
+
 ## 2025
 
 1. **Ingredients-Guided and Nutrients-Prompted Network for Food Nutrition Estimation.** `ACM MM`
@@ -69,6 +79,12 @@
 2. **NutritionVerse-Real: An Open Access Manually Collected 2D Food Scene Dataset for Dietary Intake Estimation.** `arXiv`
 
     *Chi-En Amy Tai, et al.* [[PDF](https://arxiv.org/pdf/2401.08598)], abs/2401.08598, 2024.
+
+3. **NutriBench: A Dataset for Evaluating Large Language Models on Nutrition Estimation from
+Meal Descriptions.** `arXiv`
+
+*Andong Hua, Mehak Preet Dhaliwal, Laya Pullela, Ryan Burke, Yao Qin.* [[PDF](https://arxiv.org/pdf/2407.12843)],
+abs/2407.12843, 2024.
    
 ## 2023
 
