@@ -49,3 +49,7 @@
 1. **Ingredient Extraction from Text in the Recipe Domain.** `CoRR`
 
     *Arkin Dharawat, Chris Doan.* [[PDF](https://arxiv.org/pdf/2204.08137)], abs/2204.08137, 2022.
+
+1. **RecipeMind: Guiding Ingredient Choices from Food Pairing to Recipe Completion using Cascaded Set Transformer** CIKM 2022
+
+    *Mogan Gim, Donghee Choi, Kana Maruyama, Jihun Choi, Hajung Kim, Donghyeon Park, Jaewoo Kang.* [[PDF](https://arxiv.org/pdf/2210.10628)], abs/2210.10628, 2022.
