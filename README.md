@@ -27,6 +27,10 @@
 5. **NutritionVerse3D2D: Large 3D Object and 2D Image Food Dataset for Dietary Intake Estimation.** `Data`
 
     *Chi-En Amy Tai, Matthew Keller, Saeedjih Nair, Yuhao Chen, Yifan Wu, Olivia Markham, Krish Parmar, Pengcheng Xi, Alexander Wong.* [[PDF](https://doi.org/10.3390/data10110180)], 10(11): 180, 2025.
+
+6. **S2SRec2: Set-to-Set Recommendation for Basket Completion with Recipe.** SIGIR eCom 2025
+
+   *Yanan Cao, Omid Memarrast, Shiqin Cai, Sinduja Subramaniam, Evren Körpeoğlu, Kannan Achan.* [[PDF](https://arxiv.org/pdf/2507.09101)], abs/2507.09101, 2025.
    
 ## 2024
 
