@@ -24,6 +24,17 @@ Nutrition.** `arXiv`
 
 *James Izzard, Hassan Eshkiki, Fabio Caraffini.* [[PDF](https://arxiv.org/pdf/2607.23273)], abs/2607.23273, 2026.
 
+6. **OmniFood-Bench: Evaluating VLMs for Nutrient Reasoning and Personalized Health Advice.** `arXiv`
+
+    *Qian Jiang, Zhecheng Shi, Jingpu Yang, Zirui Song, Miao Fang.* [[PDF](https://arxiv.org/pdf/2607.08423)], abs/2607.08423, 2026.
+
+7. **GLEN-Bench: A Graph-Language based Benchmark for Nutritional Health.** `arXiv`
+
+    *Jiatan Huang, Zheyuan Zhang, Tianyi Ma, Mingchen Li, Yaning Zheng, Yanfang Ye, Chuxu Zhang.* [[PDF](https://arxiv.org/pdf/2601.18106)], abs/2601.18106, 2026.
+
+8. **Evaluation of LLMs in retrieving food and nutritional context for RAG systems.** `arXiv`
+
+    *Maks Požarnik Vavken, Matevž Ogrinc, Tome Eftimov, Barbara Koroušić Seljak.* [[PDF](https://arxiv.org/pdf/2603.09704)], abs/2603.09704, 2026.
 ## 2025
 
 1. **S2SRec2: Set-to-Set Recommendation for Basket Completion with Recipe.** SIGIR eCom 2025
@@ -65,6 +76,13 @@ Cook, a Bad Cook, or Merely a Plagiator?** `arXiv`
 
 *Jan Kvapil, Martin Fajcik.* [[PDF](https://arxiv.org/pdf/2506.23527)], abs/2506.23527, 2025.
 
+10. **When LLMs Can't Help: Real-World Evaluation of LLMs in Nutrition.** `arXiv`
+
+    *Karen Jia-Hui Li, Simone Balloccu, Ondrej Dusek, Ehud Reiter.* [[PDF](https://arxiv.org/pdf/2511.20652)], abs/2511.20652, 2025.
+
+11. **Comprehensive Evaluation of Large Multimodal Models for Nutrition Analysis: A New Benchmark Enriched with Contextual Metadata.** `arXiv`
+
+    *Bruce Coburn, Jiangpeng He, Megan E. Rollo, Satvinder S. Dhaliwal, Deborah A. Kerr, Fengqing Zhu.* [[PDF](https://arxiv.org/pdf/2507.07048)], abs/2507.07048, 2025.
 
 ## 2024
 
@@ -79,6 +97,9 @@ Examination.** `arXiv`
 *Pengfei Zhou, Weiqing Min, Chaoran Fu, Ying Jin, Mingyu Huang, Xiangyang Li, Shuhuan
 Mei, Shuqiang Jiang.* [[PDF](https://arxiv.org/pdf/2406.10261)], abs/2406.10261, 2024.
 
+3. **NGQA: A Nutritional Graph Question Answering Benchmark for Personalized Health-aware Nutritional Reasoning.** `arXiv`
+
+    *Zheyuan Zhang, Yiyang Li, Nhi Ha Lan Le, Zehong Wang, Tianyi Ma, Vincent Galassi, Keerthiram Murugesan, Nuno Moniz, Werner Geyer, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.* [[PDF](https://arxiv.org/pdf/2412.15547)], abs/2412.15547, 2024.
 ## 2023
 
 1. **Assistive Recipe Editing through Critiquing.** `EACL`
