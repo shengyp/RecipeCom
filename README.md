@@ -38,7 +38,7 @@ Nutrition.** `arXiv`
 
 9. **Open-KNEAD: Knowledge-grounded Nutrition Estimation via Agentic Decomposition.** `arXiv`
 
-    *Bruce Coburn, Jingbo Yue, Jinge Ma, Siddeshwar Raghavan, Gautham Vinod, Fengqing Zhu.* [[PDF](https://arxiv.org/pdf/2607.12911)], abs/2607.12911 2026.
+    *Bruce Coburn, Jingbo Yue, Jinge Ma, Siddeshwar Raghavan, Gautham Vinod, Fengqing Zhu.* [[PDF](https://arxiv.org/pdf/2607.12911)], abs/2607.12911, 2026.
    
 ## 2025
 
@@ -91,7 +91,7 @@ Cook, a Bad Cook, or Merely a Plagiator?** `arXiv`
 
 12. **Semantic Nutrition Estimation: Predicting Food Healthfulness from Text Descriptions.** `CoRR`
 
-    *	Dayne R. Freudenberg, Daniel G. Haughian, Mitchell A. Klusty, Caroline N. Leach, W. Scott Black, Leslie N. Woltenberg, Rowan Hallock, Elizabeth Solie, Emily B. Collier, Samuel E. Armstrong, V. K. Cody Bumgardner.* [[PDF](https://arxiv.org/pdf/2512.11836)], abs/2512.11836 2025.
+    *	Dayne R. Freudenberg, Daniel G. Haughian, Mitchell A. Klusty, Caroline N. Leach, W. Scott Black, Leslie N. Woltenberg, Rowan Hallock, Elizabeth Solie, Emily B. Collier, Samuel E. Armstrong, V. K. Cody Bumgardner.* [[PDF](https://arxiv.org/pdf/2512.11836)], abs/2512.11836, 2025.
 
 
 ## 2024
@@ -113,7 +113,7 @@ Mei, Shuqiang Jiang.* [[PDF](https://arxiv.org/pdf/2406.10261)], abs/2406.10261,
 
 4. **Culinary Class Wars: Evaluating LLMs Using ASH in Cuisine Transfer Task.** `CoRR`
 
-    *	Hoonick Lee, Mogan Gim, Donghyeon Park, Donghee Choi, Jaewoo Kang* [[PDF](https://arxiv.org/pdf/2411.01996)], abs/2411.01996 (2024)
+    *	Hoonick Lee, Mogan Gim, Donghyeon Park, Donghee Choi, Jaewoo Kang* [[PDF](https://arxiv.org/pdf/2411.01996)], abs/2411.01996, 2024.
    
 ## 2023
 
@@ -131,6 +131,6 @@ Mei, Shuqiang Jiang.* [[PDF](https://arxiv.org/pdf/2406.10261)], abs/2406.10261,
    
 ## 2022
 
-1. **RecipeMind: Guiding Ingredient Choices from Food Pairing to Recipe Completion using Cascaded Set Transformer** `CIKM 2022`
+1. **RecipeMind: Guiding Ingredient Choices from Food Pairing to Recipe Completion using Cascaded Set Transformer.** `CIKM 2022`
 
     *Mogan Gim, Donghee Choi, Kana Maruyama, Jihun Choi, Hajung Kim, Donghyeon Park, Jaewoo Kang.* [[PDF](https://arxiv.org/pdf/2210.10628)], abs/2210.10628, 2022.
