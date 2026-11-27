@@ -35,6 +35,7 @@ Nutrition.** `arXiv`
 8. **Evaluation of LLMs in retrieving food and nutritional context for RAG systems.** `arXiv`
 
     *Maks Požarnik Vavken, Matevž Ogrinc, Tome Eftimov, Barbara Koroušić Seljak.* [[PDF](https://arxiv.org/pdf/2603.09704)], abs/2603.09704, 2026.
+   
 ## 2025
 
 1. **S2SRec2: Set-to-Set Recommendation for Basket Completion with Recipe.** SIGIR eCom 2025
@@ -64,12 +65,12 @@ Nutrition.** `arXiv`
 7. **NutriGen: Personalized Meal Plan Generator Leveraging Large Language Models to Enhance
 Dietary and Nutritional Adherence.** `arXiv`
 
-*Saman Khamesian, Asiful Arefeen, Stephanie M. Carpenter, Hassan Ghasemzadeh.* [[PDF](https://arxiv.org/pdf/2502.20601)],abs/2502.20601, 2025.
+*Saman Khamesian, Asiful Arefeen, Stephanie M. Carpenter, Hassan Ghasemzadeh.* [[PDF](https://arxiv.org/pdf/2502.20601)] [[code](https://github.com/SamanKhamesian/NutriGen)],abs/2502.20601, 2025.
 
 8. **KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language
 Models.** `arXiv`
 
-*Fnu Mohbat, Mohammed J Zaki.* [[PDF](https://arxiv.org/pdf/2505.14629)], abs/2505.14629, 2025.
+*Fnu Mohbat, Mohammed J Zaki.* [[PDF](https://arxiv.org/pdf/2505.14629)] [[code](https://github.com/mohbattharani/KERL)], abs/2505.14629, 2025.
 
 9. **On Recipe Memorization and Creativity in Large Language Models: Is Your Model a Creative
 Cook, a Bad Cook, or Merely a Plagiator?** `arXiv`
@@ -78,7 +79,7 @@ Cook, a Bad Cook, or Merely a Plagiator?** `arXiv`
 
 10. **When LLMs Can't Help: Real-World Evaluation of LLMs in Nutrition.** `arXiv`
 
-    *Karen Jia-Hui Li, Simone Balloccu, Ondrej Dusek, Ehud Reiter.* [[PDF](https://arxiv.org/pdf/2511.20652)], abs/2511.20652, 2025.
+    *Karen Jia-Hui Li, Simone Balloccu, Ondrej Dusek, Ehud Reiter.* [[PDF](https://arxiv.org/pdf/2511.20652)] [[code](https://github.com/saeshyra/diet-chatbot-trial)], abs/2511.20652, 2025.
 
 11. **Comprehensive Evaluation of Large Multimodal Models for Nutrition Analysis: A New Benchmark Enriched with Contextual Metadata.** `arXiv`
 
@@ -89,7 +90,7 @@ Cook, a Bad Cook, or Merely a Plagiator?** `arXiv`
 1. **NutriBench: A Dataset for Evaluating Large Language Models on Nutrition Estimation from
 Meal Descriptions.** `arXiv`
 
-*Andong Hua, Mehak Preet Dhaliwal, Laya Pullela, Ryan Burke, Yao Qin.* [[PDF](https://arxiv.org/pdf/2407.12843)],abs/2407.12843, 2024.
+*Andong Hua, Mehak Preet Dhaliwal, Laya Pullela, Ryan Burke, Yao Qin.* [[PDF](https://arxiv.org/pdf/2407.12843)][[code](https://github.com/DongXzz/NutriBench)][[data](https://huggingface.co/datasets/dongx1997/NutriBench)],abs/2407.12843, 2024.
 
 2. **FoodSky: A Food-oriented Large Language Model that Passes the Chef and Dietetic
 Examination.** `arXiv`
@@ -99,7 +100,7 @@ Mei, Shuqiang Jiang.* [[PDF](https://arxiv.org/pdf/2406.10261)], abs/2406.10261,
 
 3. **NGQA: A Nutritional Graph Question Answering Benchmark for Personalized Health-aware Nutritional Reasoning.** `arXiv`
 
-    *Zheyuan Zhang, Yiyang Li, Nhi Ha Lan Le, Zehong Wang, Tianyi Ma, Vincent Galassi, Keerthiram Murugesan, Nuno Moniz, Werner Geyer, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.* [[PDF](https://arxiv.org/pdf/2412.15547)], abs/2412.15547, 2024.
+    *Zheyuan Zhang, Yiyang Li, Nhi Ha Lan Le, Zehong Wang, Tianyi Ma, Vincent Galassi, Keerthiram Murugesan, Nuno Moniz, Werner Geyer, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.* [[PDF](https://arxiv.org/pdf/2412.15547)][[code](https://github.com/Yiyang-Ian-Li/NGQA)], abs/2412.15547, 2024.
 ## 2023
 
 1. **Assistive Recipe Editing through Critiquing.** `EACL`
