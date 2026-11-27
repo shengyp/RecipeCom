@@ -6,38 +6,7 @@
 
     *Aman Kumar, Avinash Anand, Chaitanya Lakhchaura, Ashutosh Kumar, Akshita Abrol, Timothy Liu, Zhengkui Wang, Rajiv Ratn Shah.* [[PDF](https://arxiv.org/pdf/2609.33076)], abs/2609.33076, 2026.
 
-2. **Diabetasty: Personalized Recipe Generation System for Type 2 Diabetes Management Using Large Language Models and Reinforcement Learning.** `arXiv`
 
-    *Nitya Rajan, Sreelasya Changalasetty, N. Prabakaran, N. Karthik, B. Aruna Devi.* [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11769533)], 14: 168458–168477, 2026.
-
-3. **ReciFine: Finely Annotated Recipe Dataset for Controllable Recipe Generation.** `arXiv`
-
-    *Nuhu Ibrahim, Rishi Ravikumar, Robert Stevens, Riza Batista-Navarro.* [[PDF](https://aclanthology.org/2026.findings-eacl.210.pdf)], EACL (Findings) 2026: 4058-4074
-
-4. **The Relationship Between Perceived Diversity and Entropy of AI-Generated Content: A Case Study in Recipe Generation.** `arXiv`
-
-    *Xuanzhe Sun, Francisco Ibarrola, Samuel Gillespie, Kazjon Grace.* [[PDF](https://www.tandfonline.com/doi/full/10.1080/10447318.2026.2623543)], 10.1080/10447318.2026.2623543, 2026.
-
-5. **Losses that Cook: Topological Optimal Transport for Structured Recipe Generation.** `arXiv`
-
-    *Mattia Ottoborgo, Daniele Rege Cambrin, Paolo Garza.* [[PDF](https://arxiv.org/pdf/2601.02531)], abs/2601.02531, 2026.
-
-6. **Can LLMs Cook Jamaican Couscous? A Study of Cultural Novelty in Recipe Generation.** `arXiv`
-
-    *Florian Carichon, Romain Rampa, Golnoosh Farnadi.* [[PDF](https://arxiv.org/pdf/2602.10964)], abs/2602.10964, 2026.
-
-7. **Profile-Aware Trustworthy Recipe Generation with Planner-Critic Agentic Remediation.** `arXiv`
-
-    *Shanhong Liu, Pai Chet Ng, Konstantinos N. Plataniotis.* [[PDF](https://arxiv.org/pdf/2610.02969)], abs/2610.02969, 2026.
-
-8. **Enhancing Action and Ingredient Modeling for Semantically Grounded Recipe Generation.** `arXiv`
-
-    *Guoshan Liu, Bin Zhu, Yian Li, Jingjing Chen, Chong-Wah Ngo, Yu-Gang Jiang.* [[PDF](https://arxiv.org/pdf/2602.15862)], abs/2602.15862, 2026.
-
-9. **Recipe Generation from Unsegmented Cooking Videos.** `arXiv`
-
-    *Taichi Nishimura, Atsushi Hashimoto, Yoshitaka Ushiku, Hirotaka Kameko, Shinsuke Mori.* [[PDF](https://arxiv.org/pdf/2209.10134)], abs/2209.10134, 2026.
-   
 ## 2025
 
 1. **Ingredients-Guided and Nutrients-Prompted Network for Food Nutrition Estimation.** `ACM MM`
