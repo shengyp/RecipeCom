@@ -24,6 +24,16 @@ Recipe Nutrient Estimation.** `arXiv`
 
 *Revathy Venkataramanan, Aditya Luthra, Venkatesan Nadimuthu, Amit Sheth.* [PDF](https://arxiv.org/pdf/2609.03967),abs/2609.03967, 2026
 
+6. **Statistically Supported LLM Ingredient and Recipe Data Collection in Computational
+Nutrition.** `arXiv`
+
+*James Izzard, Hassan Eshkiki, Fabio Caraffini.* [PDF](https://arxiv.org/pdf/2607.23273), abs/2607.23273, 2026
+
+7. **ReciFine: Finely Annotated Recipe Dataset for Controllable Recipe Generation.** `EACL
+(Findings)`
+
+*Nuhu Ibrahim, Rishi Ravikumar, Robert Stevens, Riza Batista-Navarro.* [PDF](https://aclanthology.org/2026.findings-eacl.210.pdf), 2026.findings-eacl.210, 2026
+
 ## 2025
 
 1. **Ingredients-Guided and Nutrients-Prompted Network for Food Nutrition Estimation.** `ACM MM`
@@ -69,7 +79,27 @@ Recipe Nutrient Estimation.** `arXiv`
 11. **The Digital Sous Chef - A Comparative Study on Fine-Tuning Language Models for Recipe Generation.** `arXiv`
 
     *Shubham Pundhir, Ganesh Bagler.* [[PDF](https://arxiv.org/pdf/2508.14718)], abs/2508.14718, 2025.
-   
+
+12. **NutriGen: Personalized Meal Plan Generator Leveraging Large Language Models to Enhance
+Dietary and Nutritional Adherence.** `arXiv`
+
+*Saman Khamesian, Asiful Arefeen, Stephanie M. Carpenter, Hassan Ghasemzadeh.* [[PDF](https://arxiv.org/pdf/2502.20601)],abs/2502.20601, 2025
+
+13. **KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language
+Models.** `arXiv`
+
+*Fnu Mohbat, Mohammed J Zaki.* [[PDF](https://arxiv.org/pdf/2505.14629)], abs/2505.14629, 2025.
+
+14. **On Recipe Memorization and Creativity in Large Language Models: Is Your Model a Creative
+Cook, a Bad Cook, or Merely a Plagiator?** `arXiv`
+
+*Jan Kvapil, Martin Fajcik.* [[PDF](https://arxiv.org/pdf/2506.23527)], abs/2506.23527, 2025
+
+15. **Controlled Recipe Generation: Adapting Food Recipes to Meet Dietary Restriction.** `PLN-
+DS@SEPLN`
+
+*Kemalcan Bora.* [[PDF](https://ceur-ws.org/Vol-4100/paper18.pdf)], Vol-4100/paper18, 2025
+
 ## 2024
 
 1. **Measure and Improve Your Food: Ingredient Estimation Based Nutrition Calculator.** `ACM MM`
@@ -83,9 +113,14 @@ Recipe Nutrient Estimation.** `arXiv`
 3. **NutriBench: A Dataset for Evaluating Large Language Models on Nutrition Estimation from
 Meal Descriptions.** `arXiv`
 
-*Andong Hua, Mehak Preet Dhaliwal, Laya Pullela, Ryan Burke, Yao Qin.* [[PDF](https://arxiv.org/pdf/2407.12843)],
-abs/2407.12843, 2024.
-   
+*Andong Hua, Mehak Preet Dhaliwal, Laya Pullela, Ryan Burke, Yao Qin.* [[PDF](https://arxiv.org/pdf/2407.12843)],abs/2407.12843, 2024.
+
+4. **FoodSky: A Food-oriented Large Language Model that Passes the Chef and Dietetic
+Examination.** `arXiv`
+
+*Pengfei Zhou, Weiqing Min, Chaoran Fu, Ying Jin, Mingyu Huang, Xiangyang Li, Shuhuan
+Mei, Shuqiang Jiang.* [[PDF](https://arxiv.org/pdf/2406.10261)], abs/2406.10261, 2024
+
 ## 2023
 
 1. **Assistive Recipe Editing through Critiquing.** `EACL`
