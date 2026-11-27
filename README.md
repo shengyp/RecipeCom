@@ -101,6 +101,11 @@ Mei, Shuqiang Jiang.* [[PDF](https://arxiv.org/pdf/2406.10261)], abs/2406.10261,
 3. **NGQA: A Nutritional Graph Question Answering Benchmark for Personalized Health-aware Nutritional Reasoning.** `arXiv`
 
     *Zheyuan Zhang, Yiyang Li, Nhi Ha Lan Le, Zehong Wang, Tianyi Ma, Vincent Galassi, Keerthiram Murugesan, Nuno Moniz, Werner Geyer, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.* [[PDF](https://arxiv.org/pdf/2412.15547)][[code](https://github.com/Yiyang-Ian-Li/NGQA)], abs/2412.15547, 2024.
+
+4. **Culinary Class Wars: Evaluating LLMs Using ASH in Cuisine Transfer Task.** `CoRR`
+
+    *	Hoonick Lee, Mogan Gim, Donghyeon Park, Donghee Choi, Jaewoo Kang* [[PDF](https://arxiv.org/pdf/2411.01996)], abs/2411.01996 (2024)
+   
 ## 2023
 
 1. **Assistive Recipe Editing through Critiquing.** `EACL`
