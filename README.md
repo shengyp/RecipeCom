@@ -120,6 +120,14 @@ Mei, Shuqiang Jiang.* [[PDF](https://arxiv.org/pdf/2406.10261)], abs/2406.10261,
 1. **Assistive Recipe Editing through Critiquing.** `EACL`
 
     *Diego Antognini, Shuyang Li, Boi Faltings, Julian J. McAuley.* [[PDF](https://aclanthology.org/2023.eacl-main.28.pdf)], 375-384, 2023.
+
+2. **Holistic Evaluation of Language Models.** 
+
+    *	Percy Liang, Rishi Bommasani, Tony Lee, Dimitris Tsipras, Dilara Soylu, Michihiro Yasunaga, Yian Zhang, Deepak Narayanan, Yuhuai Wu, Ananya Kumar, Benjamin Newman, Binhang Yuan, Bobby Yan, Ce Zhang, Christian Cosgrove, Christopher D. Manning, Christopher Ré, Diana Acosta-Navas, Drew A. Hudson, Eric Zelikman, Esin Durmus, Faisal Ladhak, Frieda Rong, Hongyu Ren, Huaxiu Yao, Jue Wang, Keshav Santhanam, Laurel J. Orr, Lucia Zheng, Mert Yüksekgönül, Mirac Suzgun, Nathan Kim, Neel Guha, Niladri S. Chatterji, Omar Khattab, Peter Henderson, Qian Huang, Ryan Chi, Sang Michael Xie, Shibani Santurkar, Surya Ganguli, Tatsunori Hashimoto, Thomas Icard, Tianyi Zhang, Vishrav Chaudhary, William Wang, Xuechen Li, Yifan Mai, Yuhui Zhang, Yuta Koreeda.* [[PDF](https://openreview.net/pdf?id=iO4LZibEqW)], Trans. Mach. Learn. Res. 2023.
+
+3. **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena.** 
+
+    *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric P. Xing, Hao Zhang, Joseph E. Gonzalez, Ion Stoica.* [[PDF](https://proceedings.neurips.cc/paper_files/paper/2023/file/91f18a1287b398d378ef22505bf41832-Paper-Datasets_and_Benchmarks.pdf)],  NeurIPS 2023.
    
 ## 2022
 
